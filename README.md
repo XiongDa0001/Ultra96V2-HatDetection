@@ -4,7 +4,9 @@ This project relies on vitis-ai 1.2 release.
 
 ## 1.download DPU-PYNQ 1.2.0 
   https://github.com/Xilinx/DPU-PYNQ/tree/v1.2.0
+  
   cd DPU-PYNQ/upgrade
+  
   make
   
 ## 2.install pynq-dpu
