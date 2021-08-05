@@ -19,5 +19,8 @@ This project relies on vitis-ai 1.2 release.
   cd $PYNQ_JUPYTER_NOTEBOOKS
   
   pynq get-notebooks pynq-dpu -p .
+  
+## 3.how to run
+ There are two .
 
 # PS:This vedio detection exists a bug. When detecting hat object, the detection page will start flashing
