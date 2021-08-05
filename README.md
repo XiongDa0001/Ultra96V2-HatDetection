@@ -1,4 +1,4 @@
-# Ultra96-HatDetection
+
 # Object Detection For Xilinx Summer School
 
 In the complex construction environment, the helmet wearing detection algorithm based on machine vision technology often has missed detection and false detection, its detection ability is limited, and the available resources on the board are limited. To solve the above problems, I used the lightweight network detection framework yolov4 tiny to realize helmet wearing detection.
