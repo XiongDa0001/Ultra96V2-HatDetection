@@ -1,4 +1,7 @@
 # Ultra96-HatDetection
+
+In the complex construction environment, the helmet wearing detection algorithm based on machine vision technology often has missed detection and false detection, its detection ability is limited, and the available resources on the board are limited. To solve the above problems, we use the lightweight network detection framework yolov4 tiny to realize helmet wearing detection.
+
 Please use PYNQ image and prepare pynq-dpu environment.
 This project relies on vitis-ai 1.2 release.
 
