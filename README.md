@@ -22,6 +22,7 @@ This project relies on vitis-ai 1.2 release.
   
 ## 3.how to run
  YOLOv4-tiny.ipynb is used for image detection.
+ 
  vedio-YOLOv4-tiny.ipynb is used for real-time detection. This project  needs a drive free camera.
 
 # PS:This vedio detection exists a bug. When detecting hat object, the detection page will start flashing
