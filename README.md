@@ -26,5 +26,7 @@ This project relies on vitis-ai 1.2 release.
 
 
  ### vedio-YOLOv4-tiny.ipynb is used for real-time detection. This project  needs a drive free camera.
+![image](https://user-images.githubusercontent.com/71107056/128302856-5130d2a7-08f7-4498-8dde-58ccab1c3a09.png)
+
 
 # PS:This vedio detection exists a bug. When detecting hat object, the detection page will start flashing
