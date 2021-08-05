@@ -21,10 +21,10 @@ This project relies on vitis-ai 1.2 release.
   pynq get-notebooks pynq-dpu -p .
   
 ## 3.how to run
- YOLOv4-tiny.ipynb is used for image detection.
+ ### YOLOv4-tiny.ipynb is used for image detection.
 ![image](https://user-images.githubusercontent.com/71107056/128302693-d71024f3-3c32-473c-81e0-27da1f640ba9.png)
 
 
- vedio-YOLOv4-tiny.ipynb is used for real-time detection. This project  needs a drive free camera.
+ ### vedio-YOLOv4-tiny.ipynb is used for real-time detection. This project  needs a drive free camera.
 
 # PS:This vedio detection exists a bug. When detecting hat object, the detection page will start flashing
